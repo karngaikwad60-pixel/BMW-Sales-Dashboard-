@@ -156,7 +156,7 @@ Add your dashboard screenshot here:
 
 **Karn Gaikwad**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/karngaikwad60-pixel
 
 ---
 
