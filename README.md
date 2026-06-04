@@ -1,6 +1,6 @@
-# 🚗 BMW Sales Dashboard
+# 🚗 BMW India Sales Dashboard
 
-A visually interactive Power BI dashboard designed to analyze BMW vehicle sales performance, revenue trends, manufacturing costs, regional distribution, and top-performing models.
+An interactive Power BI dashboard developed to analyze BMW vehicle sales performance across India. The dashboard provides insights into revenue generation, sales distribution, manufacturing costs, regional performance, and top-selling BMW models to support business decision-making.
 
 ![BMW Sales Dashboard](Dashboard.png)
 
@@ -8,83 +8,100 @@ A visually interactive Power BI dashboard designed to analyze BMW vehicle sales 
 
 ## 📊 Project Overview
 
-The BMW Sales Dashboard provides a comprehensive overview of sales performance across multiple dimensions, helping stakeholders make data-driven decisions.
+The BMW India Sales Dashboard offers a comprehensive view of sales operations across major Indian cities and regions. It enables stakeholders to monitor key performance indicators, identify high-performing markets, and evaluate product performance.
 
-The dashboard includes:
+### Dashboard Highlights
 
-- Total Revenue Analysis
-- Total Units Sold
-- Target Achievement Status
-- Manufacturing Cost Tracking
-- Sales Distribution by Model
-- Regional Sales Analysis
-- Vehicle Type Performance
-- City-wise Sales Mapping
-- Top Performing Models
-- Revenue vs Manufacturing Cost Comparison
+* Revenue Analysis
+* Vehicle Sales Performance
+* Target Achievement Monitoring
+* Manufacturing Cost Analysis
+* Model-wise Sales Distribution
+* Region-wise Sales Performance
+* Vehicle Segment Analysis
+* City-wise Sales Mapping
+* Top Performing Models
+* Revenue vs Manufacturing Cost Comparison
 
 ---
 
-## 🎯 Key Metrics
+## 🎯 Key Performance Indicators (KPIs)
 
-| Metric | Value |
-|----------|----------|
-| Total Revenue | ₹23,35,58,11 |
-| Total Units Sold | 155,468 |
-| Target Status | 91,125 |
-| Manufacturing Cost | ₹1,771,064,487 |
+| KPI                | Value          |
+| ------------------ | -------------- |
+| Total Revenue      | ₹23.36 Billion |
+| Total Units Sold   | 155,468        |
+| Target Achievement | 91,125 Units   |
+| Manufacturing Cost | ₹17.71 Billion |
 
 ---
 
 ## 📌 Dashboard Features
 
-### 1. Revenue Overview
-Displays total revenue generated from BMW vehicle sales.
+### Revenue Overview
 
-### 2. Unit Sales Tracking
-Monitors the total number of vehicles sold across all models.
+Tracks total revenue generated from BMW vehicle sales across India.
 
-### 3. Target Achievement
-Shows sales performance against predefined business targets.
+### Unit Sales Analysis
 
-### 4. Sales by Model
-Interactive donut chart highlighting contribution of each BMW model.
+Displays the total number of vehicles sold during the reporting period.
 
-### 5. Sales by Region
-Regional breakdown of sales performance including:
-- Central
-- East
-- North
-- North-East
-- South
-- West
+### Sales Target Monitoring
 
-### 6. Sales by Vehicle Type
-Comparison between:
-- SUV
-- Sports
+Measures actual sales performance against predefined business targets.
 
-### 7. Geographic Analysis
-Map visualization showing city-level sales distribution.
+### Model-wise Sales Distribution
 
-### 8. Top Performing Models
-Ranks BMW models based on generated revenue.
+Visualizes the contribution of different BMW models to overall sales revenue.
 
-### 9. Cost vs Revenue Analysis
-Line chart comparing:
-- Vehicle Price
-- Manufacturing Cost
-- Revenue
+### Regional Sales Analysis
+
+Compares sales performance across Indian regions:
+
+* North
+* South
+* East
+* West
+* Central
+* North-East
+
+### Vehicle Segment Analysis
+
+Evaluates sales performance across vehicle categories such as:
+
+* Luxury SUV
+* Performance & Sports Vehicles
+
+### City-wise Sales Insights
+
+Geographical visualization of sales distribution across major Indian cities, including:
+
+* Mumbai
+* Pune
+* Delhi NCR
+* Bengaluru
+* Hyderabad
+* Chennai
+* Kolkata
+
+### Top Performing Models
+
+Identifies BMW models generating the highest revenue and sales volume.
+
+### Cost vs Revenue Analysis
+
+Compares vehicle pricing, manufacturing costs, and revenue generated across different BMW models.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-- **Power BI Desktop**
-- **Microsoft Excel / CSV**
-- **DAX**
-- **Power Query**
-- **Data Modeling**
+* Power BI Desktop
+* Microsoft Excel
+* Power Query
+* DAX (Data Analysis Expressions)
+* Data Modeling
+* Interactive Visualizations
 
 ---
 
@@ -95,60 +112,56 @@ BMW-Sales-Dashboard/
 │
 ├── Dashboard.pbix
 ├── Dataset/
-│   ├── BMW_Sales_Data.xlsx
+│   └── BMW_Sales_Data.xlsx
 │
-├── Images/
-│   └── Dashboard_Screenshot.png
+├── Dashboard.png
 │
 └── README.md
 ```
 
 ---
 
-## 📈 Insights Generated
+## 📈 Key Business Insights
 
-- Luxury SUV segment contributes the highest sales volume.
-- BMW X-series models generate significant revenue.
-- Certain regions outperform others in overall sales.
-- Manufacturing costs remain well below total revenue generation.
-- Sales targets exceeded by more than 50%.
+* Luxury SUV models contribute the highest share of total sales revenue.
+* BMW X-Series vehicles are among the strongest revenue-generating products.
+* Western and Southern regions demonstrate strong sales performance.
+* Revenue significantly exceeds manufacturing costs, indicating healthy profitability.
+* Sales targets have been exceeded by more than 50%, reflecting strong market demand.
 
 ---
 
-## 🚀 How to Use
+## 🚀 Getting Started
 
-1. Clone the repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/BMW-Sales-Dashboard.git
+git clone https://github.com/karngaikwad60-pixel/BMW-Sales-Dashboard.git
 ```
 
-2. Open the `.pbix` file in Power BI Desktop.
+### Open the Dashboard
 
-3. Refresh the dataset if required.
-
-4. Explore the interactive dashboard.
+1. Install Power BI Desktop.
+2. Open the `Dashboard.pbix` file.
+3. Refresh the data source if required.
+4. Explore interactive reports and insights.
 
 ---
 
 ## 📸 Dashboard Preview
 
-Add your dashboard screenshot here:
-
-```markdown
-![Dashboard Preview](Images/Dashboard_Screenshot.png)
-```
+The dashboard provides a complete overview of BMW India's sales performance, enabling users to analyze revenue, costs, customer demand, and regional trends through interactive visualizations.
 
 ---
 
 ## 🔮 Future Enhancements
 
-- Monthly Sales Trend Analysis
-- Forecasting using Power BI AI visuals
-- Dealer Performance Dashboard
-- Customer Segmentation Analysis
-- Profit Margin Tracking
-- Dynamic KPI Alerts
+* Monthly and Quarterly Sales Trends
+* Predictive Sales Forecasting
+* Dealer Performance Analysis
+* Customer Segmentation Dashboard
+* Profit Margin Analysis
+* Inventory Management Insights
 
 ---
 
@@ -162,4 +175,4 @@ GitHub: https://github.com/karngaikwad60-pixel
 
 ## ⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+If you found this project helpful, consider giving the repository a ⭐ on GitHub.
