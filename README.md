@@ -2,7 +2,7 @@
 
 A visually interactive Power BI dashboard designed to analyze BMW vehicle sales performance, revenue trends, manufacturing costs, regional distribution, and top-performing models.
 
-![BMW Sales Dashboard](./assets/dashboard-preview.png)
+![BMW Sales Dashboard](Dashboard.png)
 
 ---
 
